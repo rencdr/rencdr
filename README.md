@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rencdr
-- 👀 I’m interested in game development, mobile application development, machine learning development...
 
 
 <!---
