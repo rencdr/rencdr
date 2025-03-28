@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @rencdr
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rencdr&layout=compact&theme=tokyonight)  
+ 👋 Hi, I’m @rencdr
+
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rencdr&layout=compact&theme=tokyonight)  
 
 <!---
 rencdr/rencdr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
